@@ -194,6 +194,7 @@
 1. Plane Manpower dupe
 1. Double focus trees for the United States
 1. May not civil war your own country during a war.
+1. You cannot offer a peace deal to an enemy and then offer your allies states without their approval, resulting in them getting annexed.
 
 ## Credits
 *Tevo* - Many rules where used from his commonly used ruleset.  
