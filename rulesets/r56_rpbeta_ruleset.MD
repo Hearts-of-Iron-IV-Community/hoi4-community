@@ -53,7 +53,7 @@
 1. Baltic countries are all banned if the Soviet player wishes.
 1. Manchukuo is banned unless the Japanese player wishes.
 1. Ethiopia, Albania is banned unless the Italian player wishes.
-1. All chinese warlords are banned from being played unless China allows it.
+1. All chinese warlords are banned from being played unless China allows it. (COMMUNIST CHINA IS THE EXCEPTION; IF A PLAYER WISHES TO PLAY IT THEN THEY ARE ALLOWED TO).
 
 ## Country Designations
 1. **Supermajors:**
