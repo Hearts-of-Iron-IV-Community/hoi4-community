@@ -53,6 +53,7 @@
 1. Baltic countries are all banned if the Soviet player wishes.
 1. Manchukuo is banned unless the Japanese player wishes.
 1. Ethiopia, Albania is banned unless the Italian player wishes.
+1. All chinese warlords are banned from being played unless China allows it.
 
 ## Country Designations
 1. **Supermajors:**
@@ -178,6 +179,7 @@
 ### China
 1. If you don't go to war with Japan or you beat japan you will be considered a major.
 1. Not allowed more than 500 divisions.
+1. You are not allowed to expedtionary troops from MENGUKUKO or state transfer tool them to yourself.
 
 ### France
 1. May not deny the Germany Rhineland or Sudetenland event.
