@@ -49,7 +49,8 @@
 1. **No transfering states to manipulate borders before a war**
 
 ## Banned Countries
-1. Austria, Czechoslovakia, Poland are all banned if the German player wishes.
+1. Austria and Czechoslovakia are banned if the German player wishes.
+1. Poland is only allowed if both Soviets and Germany agree.
 1. Baltic countries are all banned if the Soviet player wishes.
 1. Manchukuo is banned unless the Japanese player wishes.
 1. Ethiopia, Albania is banned unless the Italian player wishes.
