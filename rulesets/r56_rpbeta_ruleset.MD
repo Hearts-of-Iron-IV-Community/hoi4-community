@@ -14,7 +14,7 @@
 1. [Faction Rules](#faction-rules)  
 1. [Declaring Rules](#declaring-rules)  
    1. [Dogpiling](#dogpiling)
-   1. [Dogpiling](#time-limits)
+   1. [Time Limits](#time-limits)
 1. [Treaty Rules](#treaty-rules)
 1. [Agency / Spies Rules](#declaring-rules)  
 1. [Land Unit Rules](#land-unit-rules)  
