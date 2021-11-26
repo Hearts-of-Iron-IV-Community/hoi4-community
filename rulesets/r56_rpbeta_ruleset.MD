@@ -99,8 +99,8 @@
 ### Time Limits:
 1. Minors may not enter war against AI nations until January 1st 1937.  
 1. Majors may not enter war against AI nations until January 1st 1938.
-1. Minors may not enter war against Player nations on January 1st 1939.
-1. Majors may not enter war against Player nations on January 1st 1940.
+1. Minors may not enter war against Player nations until January 1st 1939.
+1. Majors may not enter war against Player nations until January 1st 1940.
 1. South American, Central American, and Chinese Warlord States may declare January 1st 1936.
 1. Events, Decisions, Focuses, etc are not excluded from the above rules.
 
